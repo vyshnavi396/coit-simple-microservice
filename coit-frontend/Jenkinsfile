@@ -18,7 +18,7 @@ pipeline{
         }
         
     }
-    post{
+   // post{
         // success{
         //     archiveArtifacts artifacts: '**/build', followSymlinks: false
         // }
@@ -34,5 +34,5 @@ pipeline{
         //                     Thanks
         //                     Jenkins''', subject: 'Failed ${JOB_NAME}', to: 'basil@coit.io'
         // }
-    }
+   // }
 }

@@ -45,14 +45,14 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>coit-backend1-release</id>
-			<name>coit-backend1-release</name>
-			<url>http://44.211.74.184:8081/repository/coit-backend1-release/</url>
+			<id>java-release</id>
+			<name>java-release</name>
+			<url>http://54.196.158.207:8081/repository/java-release/</url>
 		</repository>
 		<snapshotRepository>
-			<id>coit-backend-1-snapshot</id>
-			<name>coit-backend-1-snapshot</name>
-			<url>http://44.211.74.184:8081/repository/coit-backend-1-snapshot/</url>
+			<id>java-snapshot</id>
+			<name>java-snapshot</name>
+			<url>http://54.196.158.207:8081/repository/java-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
 

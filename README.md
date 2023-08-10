@@ -10,4 +10,3 @@ To learn more about Kubernetes and other related topics check the following exam
 * Envoy series - to be added!
 
 
-Test readme content

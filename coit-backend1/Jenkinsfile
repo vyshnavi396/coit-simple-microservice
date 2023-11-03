@@ -9,8 +9,7 @@ pipeline {
         }
         stage('docker-build') {
             steps {
-                cd coit-backend1
-                docker build -t coit-backend1-12344321 .
+                cd coit-backend1 && docker build -t coit-backend1-12344321 .
             }
         }
         stage('docker-push') {
